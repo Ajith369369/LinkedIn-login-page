@@ -1,0 +1,46 @@
+body {
+  overflow-x: hidden;
+}
+
+body > header {
+background-color: #fff;
+/* background-color: rgb(248, 249, 250);
+background-color: rgba(0, 0, 0, 0); */
+}
+
+body > header > nav > div > a {
+margin-left: 74px;
+}
+
+#contactbtn {
+  border: 1px solid rgb(25, 120, 228);
+}
+
+body > section > div > div.col-lg-5.col-md-5.col-sm-12.col-12 > h1 {
+font-size: 56px;
+}
+
+body > section > div > div.col-lg-5.col-md-5.col-sm-12.col-12 > div > button:nth-child(8) > svg {
+  width: 18px;
+  height: 18px;
+  padding-right: 3px;
+  padding-bottom: 4px;
+}
+
+body > section > div > div.col-lg-5.col-md-5.col-sm-12.col-12 > h1 {
+color: rgb(178, 64, 32);
+}
+
+body > section > div > div.col-lg-5.col-md-5.col-sm-12.col-12 > div {
+  width: 100%;
+  height: auto;
+}
+
+body > section > div > div.col-lg-6.col-md-6.col-sm-12.col-12 > div {
+  height: 100%;
+}
+
+body > section > div > div.col-lg-5.col-md-5.col-sm-12.col-12 > div > p > a {
+text-decoration: none;
+}
+
